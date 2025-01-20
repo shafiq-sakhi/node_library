@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey" : "lib_jwtPrivateKey",
+    "db" : "mongodb://localhost/library"
+}
